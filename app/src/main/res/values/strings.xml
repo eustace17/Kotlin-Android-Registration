@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soul Society Registration</string>
+    <string name = "name_hint">Enter Name</string>
+    <string name="email_hint">Enter Email</string>
+    <string name ="passcode_hint">Enter your Passcode</string>
+    <string name = "phone_hint">Enter Phonenumber</string>
+    <string name="reg_hint">Register</string>
+    <string name="login_hint">Login</string>
+</resources>
